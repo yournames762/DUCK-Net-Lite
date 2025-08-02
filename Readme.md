@@ -32,7 +32,7 @@ Our best model achieves:
 
 ## 📄 Paper Access
 
-🧾 [Full Paper (PDF)](./Paper/Applying_and_Adapting_DUCK-Net.pdf)
+🧾 [Full Paper (PDF)](https://github.com/yournames762/Lite/blob/main/Paper/Applying%20and%20Adapting%20DUCK-Net%20for%20Skin%20Lesion%20Segmentation.pdf)
 
 > ⚠️ **Note:** This paper is a working draft submitted for review. It has not been peer-reviewed or officially published yet. Please do not cite or redistribute without permission.
 
