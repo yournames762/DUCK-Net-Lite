@@ -25,8 +25,17 @@ Our best model achieves:
 📁 DUCK-Net-Lite/             # Main implementation of DUCK-Net-Lite
 📁 DUCK-Net-Tiny/             # Depth-reduced version (DUCK-Net-Tiny)
 📁 DUCK-Net-Ablation-Study/   # Experiments replacing DUCK blocks with Conv
-├── README.md                 # Project documentation
+📁 Paper                      # Contains the full PDF paper
+├── README.md                  # Project documentation
 ```
+
+
+## 📄 Paper Access
+
+🧾 [Full Paper (PDF)](./Paper/Applying_and_Adapting_DUCK-Net.pdf)
+
+> ⚠️ **Note:** This paper is a working draft submitted for review. It has not been peer-reviewed or officially published yet. Please do not cite or redistribute without permission.
+
 ## 📌 Citation
 
 This work builds on [DUCK-Net](https://doi.org/10.1038/s41598-023-36940-5) proposed by Dumitru et al. (2023), originally designed for polyp segmentation. We adapt and compress the architecture for skin lesion segmentation on ISIC-2016.
