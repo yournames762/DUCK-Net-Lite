@@ -1,4 +1,4 @@
-# DUCK-Net for Skin Lesion Segmentation
+# Applying and Adapting DUCK-Net for Skin Lesion Segmentation
 
 This repository contains the code and models used in our study:  
 **"Applying and Adapting DUCK-Net for Skin Lesion Segmentation"**  
