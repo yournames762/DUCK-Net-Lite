@@ -20,13 +20,13 @@ Our best model achieves:
 - ⚙️ Implemented with TensorFlow 2.11 and Albumentations for online augmentation.
 
 
-
 ## 📂 Project Structure
+```
 📁 DUCK-Net-Lite/             # Main implementation of DUCK-Net-Lite
 📁 DUCK-Net-Tiny/             # Depth-reduced version (DUCK-Net-Tiny)
 📁 DUCK-Net-Ablation-Study/   # Experiments replacing DUCK blocks with Conv
 ├── README.md                 # Project documentation
-
+```
 ## 📌 Citation
 
 This work builds on [DUCK-Net](https://doi.org/10.1038/s41598-023-36940-5) proposed by Dumitru et al. (2023), originally designed for polyp segmentation. We adapt and compress the architecture for skin lesion segmentation on ISIC-2016.
