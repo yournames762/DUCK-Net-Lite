@@ -2,7 +2,7 @@
 
 This repository contains the code and models used in our study:  
 **"Applying and Adapting DUCK-Net for Skin Lesion Segmentation"**  
-📄 *Authors*: Thoi-Toan Nguyen Dang et al.
+📄 *Authors*: Thoi-Toan Nguyen Dang et al.  
 📅 *Date*: July 2025
 
 ## 📝 Abstract
