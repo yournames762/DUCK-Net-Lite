@@ -1,8 +1,8 @@
-\# DUCK-Net for Skin Lesion Segmentation
+# DUCK-Net for Skin Lesion Segmentation
 
 This repository contains the code and models used in our study:  
 **"Applying and Adapting DUCK-Net for Skin Lesion Segmentation"**  
-📄 *Authors*: Thoi-Toan Nguyen Dang
+📄 *Authors*: Thoi-Toan Nguyen Dang et al.
 📅 *Date*: July 2025
 
 ## 📝 Abstract
@@ -26,6 +26,7 @@ Our best model achieves:
 📁 DUCK-Net-Tiny/             # Depth-reduced version (DUCK-Net-Tiny)
 📁 DUCK-Net-Ablation-Study/   # Experiments replacing DUCK blocks with Conv
 ├── README.md                 # Project documentation
-├── requirements.txt          # Python dependencies
 
+## 📌 Citation
 
+This work builds on [DUCK-Net](https://doi.org/10.1038/s41598-023-36940-5) proposed by Dumitru et al. (2023), originally designed for polyp segmentation. We adapt and compress the architecture for skin lesion segmentation on ISIC-2016.
